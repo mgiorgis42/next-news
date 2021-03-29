@@ -12,6 +12,10 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-or simply, click on this link: https://nextjs-sanity-blog-sepia.vercel.app/
+OR
 
-Thank you and have a blessed rest of your week!
+simply, click on this link https://nextjs-sanity-blog-sepia.vercel.app/.
+
+
+
+Thank you and have a blessed rest of your week! 👍🏾
